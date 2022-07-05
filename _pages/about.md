@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Charly Hong received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. He is currently the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>.  His research interests include computer vision, human perception, face analysis, and Image synthesis.  
+Charly Hong. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
