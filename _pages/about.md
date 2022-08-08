@@ -34,6 +34,8 @@ Charly is the head of computer vision technology in <a href='https://surreal.la/
 [Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 </div>
 
+</div>
+  
 # 📖 Educations
 - *2011.07 - 2015.06*, Ph.D. of Software Engineering, University of Technology, Sydney, Australia. 
 - *2010.06 - 2011.06*, Master of Information Technology, South China University of Technology, China.  
