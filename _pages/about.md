@@ -13,7 +13,7 @@ Charly is the head of computer vision technology in <a href='https://surreal.la/
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-[Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu, Hemao Wu, Hang Zhou†, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+[Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 </div>
 
 # 📖 Educations
