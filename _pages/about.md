@@ -1,13 +1,31 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+
+<span class='anchor' id='about-me'></span>
 
 Charly is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/#/coreTechnology?title=%E8%A7%86%E8%A7%89%E7%BC%96%E8%BE%91%E4%B8%8E%E5%A2%9E%E5%BC%BA&index=0.6919789520072088'>VIS</a>  at Baidu and the technical leader of the  VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
 # 🔥 News
-- *2022.08*: &nbsp;🎉🎉 One paper accepted by SIGGRAPH Asia 2022. 
-- *2022.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2022. 
+- *2022.08*: &nbsp;🎉🎉 One paper has been accepted by SIGGRAPH Asia 2022. 
+- *2022.07*: &nbsp;🎉🎉 One paper has been accepted by ECCV 2022. 
 - *2022.06*: &nbsp;🎉🎉 I joined Surreal AI as the head of computer vision technology
-- *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) toaccepted by CVPR 2022.
-- *2021.11*: &nbsp;🎉🎉 One paper accepted by AAAI 2022.
+- *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted by CVPR 2022.
+- *2021.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2022.
 
 # 📝 Publications 
 
