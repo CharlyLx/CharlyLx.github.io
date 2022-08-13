@@ -14,17 +14,28 @@ Charly is the head of computer vision technology in <a href='https://surreal.la/
 <div class='paper-box'>
 <div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-[Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+Few-Shot Head Swapping in the Wild<br>
+Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022 <b>(Oral Presentation)</b>.</i><br>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/fsfont.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="2">
 
-[Few-Shot Font Generation by Learning Fine-Grained Local Styles], CVPR2022, Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+Few-Shot Font Generation by Learning Fine-Grained Local Styles<br>
+Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang <br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
 
 </div>
- 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="2">
+
+Expressive Talking Head Generation with Granular Audio-Visual Control<br>
+Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
+</div>
+  
 </div>
   
 # 📖 Educations
