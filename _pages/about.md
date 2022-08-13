@@ -11,10 +11,19 @@ Charly is the head of computer vision technology in <a href='https://surreal.la/
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box'>
+<div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-[Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+[Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/fsfont.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="2">
+
+[Few-Shot Font Generation by Learning Fine-Grained Local Styles], CVPR2022, Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+
+</div>
+ 
 
 </div>
   
