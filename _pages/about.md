@@ -1,8 +1,9 @@
  
 
-Charly is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/#/coreTechnology?title=%E8%A7%86%E8%A7%89%E7%BC%96%E8%BE%91%E4%B8%8E%E5%A2%9E%E5%BC%BA&index=0.6919789520072088'>VIS</a>  at Baidu and the technical leader of the  VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
+Charly is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/#/coreTechnology?title=%E8%A7%86%E8%A7%89%E7%BC%96%E8%BE%91%E4%B8%8E%E5%A2%9E%E5%BC%BA&index=0.6919789520072088'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
 # 🔥 News
+- *2022.09*: &nbsp;🎉🎉 One paper has been accepted by NeuIPS 2022. 
 - *2022.08*: &nbsp;🎉🎉 One paper has been accepted by SIGGRAPH Asia 2022. 
 - *2022.07*: &nbsp;🎉🎉 One paper has been accepted by ECCV 2022. 
 - *2022.06*: &nbsp;🎉🎉 I joined Surreal AI as the head of computer vision technology
