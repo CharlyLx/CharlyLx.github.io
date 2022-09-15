@@ -10,7 +10,7 @@ Charly is the head of computer vision technology in <a href='https://surreal.la/
 - *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted by CVPR 2022.
 - *2021.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2022.
 
-# 📝 Publications 
+# 📝 Recent Publications 
 
 <div class='paper-box'>
 <div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
