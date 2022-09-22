@@ -45,7 +45,36 @@ Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han,
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
 </div>
   
+<div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="4">
 
+Expressive Talking Head Generation with Granular Audio-Visual Control<br>
+Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
+</div>
+
+ <div class='paper-box'><div class='paper-box-image'><img src='images/mobilefaceswap.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="5">
+
+Mobilefaceswap: A lightweight framework for video face swapping<br>
+Zhiliang Xu, <b>Zhibin Hong</b>, Changxing Ding, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding<br>
+<i> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI) 2022.</i><br>
+</div> 	
+  
+<div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="6">  
+Facecontroller: Controllable attribute editing for face in the wild<br>
+Zhiliang Xu, Xiyu Yu, <b>Zhibin Hong</b>, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai<br>
+<i> Thirty-fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</i><br>
+ </div>
+ 
+<div class='paper-box'><div class='paper-box-image'><img src='images/ACF.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="7">
+ACFNet: Attentional Class Feature Network for Semantic Segmentation<br>
+ Fan Zhang, Yanqin Chen, Zhihang Li, <b>Zhibin Hong</b>, Jingtuo Liu, Feifei Ma, Junyu Han, Errui Ding <br>
+<i>  IEEE International Conference on Computer Vision (ICCV) 2019.</i><br>
+</div> 
+ 
 </div>
   
 # 📖 Educations
