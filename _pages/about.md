@@ -13,7 +13,7 @@ Zhibin (Charly) Hong is the head of computer vision technology in <a href='https
 # 📝 Recent Publications 
 
 <div class='paper-box'>
-<div class='paper-box'><div class='paper-box-image'><img src='images/StyleSwap.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/styleswap.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="4">
 
 StyleSwap: Style-Based Generator Empowers Robust Face Swapping<br>
