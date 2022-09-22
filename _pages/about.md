@@ -1,18 +1,26 @@
  
 
-Charly is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/#/coreTechnology?title=%E8%A7%86%E8%A7%89%E7%BC%96%E8%BE%91%E4%B8%8E%E5%A2%9E%E5%BC%BA&index=0.6919789520072088'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
+Zhibin (Charly) Hong is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/#/coreTechnology?title=%E8%A7%86%E8%A7%89%E7%BC%96%E8%BE%91%E4%B8%8E%E5%A2%9E%E5%BC%BA&index=0.6919789520072088'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 One paper has been accepted by NeuIPS 2022. 
-- *2022.08*: &nbsp;🎉🎉 One paper has been accepted by SIGGRAPH Asia 2022. 
-- *2022.07*: &nbsp;🎉🎉 One paper has been accepted by ECCV 2022. 
+- *2022.09*: &nbsp;🎉🎉 One paper has been accepted to NeuIPS 2022. 
+- *2022.08*: &nbsp;🎉🎉 One paper has been accepted to SIGGRAPH Asia 2022. 
+- *2022.07*: &nbsp;🎉🎉 One paper has been accepted to ECCV 2022. 
 - *2022.06*: &nbsp;🎉🎉 I joined Surreal AI as the head of computer vision technology
-- *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted by CVPR 2022.
-- *2021.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2022.
+- *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted to CVPR 2022.
+- *2021.11*: &nbsp;🎉🎉 One paper has been accepted to AAAI 2022.
 
 # 📝 Recent Publications 
 
 <div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/StyleSwap.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="4">
+
+StyleSwap: Style-Based Generator Empowers Robust Face Swapping<br>
+Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> European Conference on Computer Vision (ECCV) 2022.</i><br>
+</div>
+ 
 <div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 Few-Shot Head Swapping in the Wild<br>
@@ -30,13 +38,14 @@ Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="2">
+<div class='paper-box-text' markdown="3">
 
 Expressive Talking Head Generation with Granular Audio-Visual Control<br>
 Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
 </div>
   
+
 </div>
   
 # 📖 Educations
