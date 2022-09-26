@@ -1,6 +1,6 @@
  
 
-Zhibin (Charly) Hong is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/#/coreTechnology?title=%E8%A7%86%E8%A7%89%E7%BC%96%E8%BE%91%E4%B8%8E%E5%A2%9E%E5%BC%BA&index=0.6919789520072088'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
+Zhibin (Charly) Hong is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 One paper has been accepted to NeuIPS 2022. 
@@ -44,24 +44,17 @@ Expressive Talking Head Generation with Granular Audio-Visual Control<br>
 Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
 </div>
-  
-<div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="4">
-
-Expressive Talking Head Generation with Granular Audio-Visual Control<br>
-Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
-<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
-</div>
+ 
 
  <div class='paper-box'><div class='paper-box-image'><img src='images/mobilefaceswap.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="5">
+<div class='paper-box-text' markdown="4">
 
 Mobilefaceswap: A lightweight framework for video face swapping<br>
 Zhiliang Xu, <b>Zhibin Hong</b>, Changxing Ding, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding<br>
 <i> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI) 2022.</i><br>
 </div> 	
   
-<div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/faceController.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="6">  
 Facecontroller: Controllable attribute editing for face in the wild<br>
 Zhiliang Xu, Xiyu Yu, <b>Zhibin Hong</b>, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai<br>
